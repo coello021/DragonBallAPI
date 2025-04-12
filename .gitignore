@@ -1,0 +1,7 @@
+.vs/
+*.vsidx
+*.vscode/
+*.user
+*.suo
+bin/
+obj/
